@@ -3,3 +3,5 @@ hello from intellij
 another line from GitHub
 
 With this line I fixed bug #1
+another practice line
+trying to merge with main
