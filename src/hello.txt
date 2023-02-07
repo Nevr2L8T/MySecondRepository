@@ -2,4 +2,4 @@ hello from intellij
 
 another line from GitHub
 
-With this line I fixed bug 1
+With this line I fixed bug #1
